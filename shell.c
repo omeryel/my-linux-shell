@@ -260,7 +260,7 @@ int main()
 		// execflag returns zero if there is no command 
 		// or it is a builtin command, 
 		// 1 if it is a simple command 
-		// 2 if it is including a pipe. 
+		// 2 if it includes a pipe. 
 
 		// execute 
 		if (execFlag == 1) 
