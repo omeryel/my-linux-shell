@@ -13,6 +13,8 @@ After a command is entered, the following things are done:
 - Printing current directory name and asking for next input.
 For keeping history of commands, recovering history using arrow keys and handling autocomplete using the tab key, we will be using the readline library provided by GNU.
 
+Click [here](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm) to know more about the working of shells
+
 ## Implementation
 To install the readline library, open the terminal window and write
 `sudo apt-get install libreadline-dev`.
